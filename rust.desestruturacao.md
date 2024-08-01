@@ -3,7 +3,7 @@
 A desestruturação no rust é muito parecida com a desestruturação em linguagens
 como javascript. A sintaxe básica é:
 
-```
+```rust
 let minha_tupla = (15, "Desestruturando!", true); // Criando a tupla que vamos desestruturar
 
 let (valor, string, boolean) = minha_tupla; // Desestruturando a tupla!
@@ -12,7 +12,7 @@ let (valor, string, boolean) = minha_tupla; // Desestruturando a tupla!
 Note que no caso de tuplas a desestruturação é feita utilizando a ordem dos
 elementos. Esse não é o caso com estruturas:
 
-```
+```rust
 
 struct MinhaStruct {
         // Declarando a struct
