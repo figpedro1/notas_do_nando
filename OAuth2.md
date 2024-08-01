@@ -259,6 +259,4 @@ escopos, dentre outras coisas
 | --------- | ----------------------------------------------------- |
 | token     | Token de acesso que se deseja realizar a introspecção |
 
-## Referências
-
 [1]: <https://datatracker.ietf.org/doc/html/rfc6749> "RFC 6749"
