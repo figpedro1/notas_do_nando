@@ -5,7 +5,7 @@
 ### O que é o OAuth2?
 
 OAuth2, que significa Open Authorization (versão 2), é um **PROTOCOLO** de
-**AUTORIZAÇÃO** governado pela RFC 6749. Essas distinções são bastante importantes
+**AUTORIZAÇÃO** governado pela [RFC 6749][1]. Essas distinções são bastante importantes
 e serão exploradas a frente.
 
 O protocolo OAuth2 é especialmente útil quando estamos construindo uma aplicação
@@ -258,3 +258,7 @@ escopos, dentre outras coisas
 | Parâmetro | valor                                                 |
 | --------- | ----------------------------------------------------- |
 | token     | Token de acesso que se deseja realizar a introspecção |
+
+## Referências
+
+[1]: <https://datatracker.ietf.org/doc/html/rfc6749> "RFC 6749"
