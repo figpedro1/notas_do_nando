@@ -1,4 +1,4 @@
-# OAuth2 (e OIDC)
+# OAuth2
 
 ## Introdução
 
